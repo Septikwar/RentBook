@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6dfab7bd-8c18-4ce7-9ffa-4210452b3357" name="docker" url="http://localhost">
+        <fileTransfer mountedRoot="C:\DirectCredit тестовое\public" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
